@@ -1,4 +1,4 @@
 # ISEP-APROG
-* Resolution of ISEP 2020 Computer Architecture exercises;
-* **Language**: C and Assembly;
-* **Year:** 2020
+* Resolution of ISEP 2019 Algorithm and Programming exercises;
+* **Language**: Java;
+* **Year:** 2019
